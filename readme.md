@@ -43,7 +43,7 @@ NEXT_PUBLIC_BASE_URL= #your base url
 
 4. Run the development server:
 ```bash
-pnpm dev
+npm run dev
 ```
 
 5. Open [http://localhost:3000](http://localhost:3000) in your browser.

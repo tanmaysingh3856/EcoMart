@@ -26,7 +26,7 @@ A modern e-commerce platform built with Next.js, focusing on sustainable and eco
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/ecomart.git
+git clone https://github.com/Tanmaysingh3856/ecomart.git
 ```
 
 2. Install dependencies:

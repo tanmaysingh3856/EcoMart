@@ -76,7 +76,7 @@ export default function Home() {
             </div>
             <div className="flex items-center justify-center">
               <img
-                src="https://source.unsplash.com/random/600x400/?sustainability,eco"
+                src="https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?w=600&h=400&fit=crop"
                 alt="Sustainable practices"
                 className="rounded-lg object-cover shadow-lg"
                 width={600}
@@ -89,4 +89,3 @@ export default function Home() {
     </div>
   )
 }
-

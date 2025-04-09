@@ -20,7 +20,7 @@ export default function AboutPage() {
         <div>
           <h2 className="text-2xl font-bold mb-4">Our Story</h2>
           <p className="text-gray-600 dark:text-gray-300 mb-4">
-            EcoMart was founded in 2020 by a group of environmental enthusiasts who were frustrated by the lack of
+            EcoMart was founded in 2025 by a group of environmental enthusiasts who were frustrated by the lack of
             accessible eco-friendly products in the market. What started as a small online store with just a handful of
             products has grown into a comprehensive marketplace for sustainable goods.
           </p>
@@ -30,12 +30,10 @@ export default function AboutPage() {
             everyone to reduce their ecological footprint.
           </p>
           <p className="text-gray-600 dark:text-gray-300">
-            Today, we work with over 50 sustainable brands and have helped thousands of customers make the switch to
-            more eco-conscious living.
           </p>
         </div>
         <div className="rounded-lg overflow-hidden">
-          <img src="/placeholder.svg?height=400&width=600" alt="EcoMart team" className="w-full h-auto object-cover" />
+          <img src="https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?w=600&h=400&fit=crop" alt="EcoMart team" className="w-full h-auto object-cover" />
         </div>
       </div>
 
@@ -122,12 +120,11 @@ export default function AboutPage() {
       {/* Team Section */}
       <div>
         <h2 className="text-2xl font-bold mb-8 text-center">Meet Our Team</h2>
-        <div className="grid sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-8">
+        <div className="grid sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-3 gap-8">
           {[
-            { name: "Alex Morgan", role: "Founder & CEO", image: "/placeholder.svg?height=300&width=300" },
-            { name: "Jamie Chen", role: "Head of Sustainability", image: "/placeholder.svg?height=300&width=300" },
-            { name: "Sam Rodriguez", role: "Product Curator", image: "/placeholder.svg?height=300&width=300" },
-            { name: "Taylor Kim", role: "Community Manager", image: "/placeholder.svg?height=300&width=300" },
+            { name: "Tanmay Singh", role: "Founder & CEO", image: "/placeholder.svg?height=300&width=300" },
+            { name: "Pranjal Saini", role: "Head of Sustainability", image: "/placeholder.svg?height=300&width=300" },
+            { name: "Harshit Saini", role: "Product Curator", image: "/placeholder.svg?height=300&width=300" },
           ].map((member, index) => (
             <div key={index} className="text-center">
               <div className="rounded-full overflow-hidden w-40 h-40 mx-auto mb-4">

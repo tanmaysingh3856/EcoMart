@@ -11,7 +11,7 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata: Metadata = {
   title: "EcoMart - Sustainable Shopping",
   description: "Shop eco-friendly and sustainable products",
-    generator: 'v0.dev'
+    generator: 'Tanmaysingh3856'
 }
 
 export default function RootLayout({

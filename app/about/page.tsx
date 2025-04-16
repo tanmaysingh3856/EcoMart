@@ -21,8 +21,7 @@ export default function AboutPage() {
           <h2 className="text-2xl font-bold mb-4">Our Story</h2>
           <p className="text-gray-600 dark:text-gray-300 mb-4">
             EcoMart was founded in 2025 by a group of environmental enthusiasts who were frustrated by the lack of
-            accessible eco-friendly products in the market. What started as a small online store with just a handful of
-            products has grown into a comprehensive marketplace for sustainable goods.
+            accessible eco-friendly products in the market.
           </p>
           <p className="text-gray-600 dark:text-gray-300 mb-4">
             Our founders believed that making sustainable choices shouldn't be difficult or expensive. With this vision
